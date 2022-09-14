@@ -2,7 +2,7 @@ body{
 	font:20px/1.5 arial;
 	padding: 0; 
 	margin:0;
-	background: #f4f4f4;
+	background: #fff;
 }    
 
 .container{
@@ -19,7 +19,7 @@ header ul{
 }                      
 
 header{
-	background: #35424a;
+	background: #000;
 	color: #ffffff;
 	padding-top:10px;
     min-height: 70px;
@@ -82,7 +82,7 @@ header a:hover{
 
 #showcase{
 	 min-height:400px;
-	 background: url('bg1.jpg');
+	 background: url('bg1.jpg') no-repeat center center/cover;
 	 text-align: center;
 	 color: white; 
 }
@@ -102,7 +102,7 @@ header a:hover{
 #newsletter{
 	padding: 15px;
 	color: #ffffff;
-	background: #35424a;
+	background: #000;
 	text-align: center;
 	border: #ffffff 10px solid;
 }
@@ -160,7 +160,7 @@ list-style: none;
 padding: 20px;
 border: #cccccc solid 1px;
 margin-bottom: 5px;
-background: #e6e6e6;
+background: #fff;
 }
 
 footer{
